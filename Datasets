@@ -1,0 +1,12 @@
+For Fog/Haze :
+https://utexas.app.box.com/s/2yekra41udg9rgyzi3ysi513cps621qz
+For Low-Light:
+ExDark — https://github.com/cs-chan/Exclusively-Dark-Image-Dataset 
+For Normal Baseline Comparision:
+Run these Commands :
+!wget http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar
+!wget http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar
+!tar -xf VOCtest_06-Nov-2007.tar
+!tar -xf VOCtrainval_06-Nov-2007.tar 
+and Then download 
+You only need the test split for evaluation, so just download VOCtest_06-Nov-2007.tar
